@@ -4,7 +4,7 @@
 //         console.log(data)
 //     })
 // })
-
+//console.log('Javascript is running')
 
 
 const weatherForm = document.querySelector('form')
