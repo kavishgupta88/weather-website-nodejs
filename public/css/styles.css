@@ -7,6 +7,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    text-align: center;
 }
 
 footer {
@@ -44,6 +45,7 @@ a {
 input {
     border: 1px solid #cccccc;
     padding: 8px;
+    
 }
 
 button {
@@ -53,4 +55,9 @@ button {
     color: white;
     padding: 8px;
 
+}
+img {
+    border-radius: 50%;
+    border: 5px solid darkslategrey;
+    
 }
